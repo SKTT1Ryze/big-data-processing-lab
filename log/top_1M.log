@@ -1,0 +1,458 @@
+top - 09:57:31 up 42 min,  0 users,  load average: 1.51, 2.38, 1.76
+Tasks:  14 total,   1 running,  13 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.8 us,  3.2 sy,  0.0 ni, 71.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3936.1 total,    384.9 free,   2781.1 used,    770.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    858.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   94400   3064    924 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2080    640 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8023 root      20   0 2759388 294188  26632 S   0.0   7.3   0:09.11 java
+   8169 root      20   0 2745860 210796  25976 S   0.0   5.2   0:07.32 java
+   8340 root      20   0 2700644 142912  25992 S   0.0   3.5   0:04.60 java
+   8596 root      20   0 2907960 322408  26188 S   0.0   8.0   0:11.00 java
+   8772 root      20   0 2781144 220348  26984 S   0.0   5.5   0:08.67 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.00 top
+
+top - 09:57:33 up 42 min,  0 users,  load average: 1.51, 2.38, 1.76
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 46.3 us,  5.3 sy,  0.0 ni, 48.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3936.1 total,    384.9 free,   2781.1 used,    770.1 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    858.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2654376  93864  24980 S  88.0   2.3   0:01.76 java
+   8596 root      20   0 2907960 322536  26188 S   1.0   8.0   0:11.02 java
+   8772 root      20   0 2781144 220348  26984 S   1.0   5.5   0:08.69 java
+   8023 root      20   0 2759388 294188  26632 S   0.5   7.3   0:09.12 java
+      1 root      20   0   94400   3064    924 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2080    640 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8169 root      20   0 2745860 210796  25976 S   0.0   5.2   0:07.32 java
+   8340 root      20   0 2700644 142912  25992 S   0.0   3.5   0:04.60 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.00 top
+
+top - 09:57:35 up 42 min,  0 users,  load average: 1.51, 2.38, 1.76
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 63.0 us,  8.0 sy,  0.0 ni, 24.2 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3936.1 total,    179.7 free,   2947.6 used,    808.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    691.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2676028 177280  25000 S  81.0   4.4   0:03.38 java
+   8169 root      20   0 2747908 220584  25976 S  17.5   5.5   0:07.67 java
+   8023 root      20   0 2759388 294680  26632 S   3.5   7.3   0:09.19 java
+   8596 root      20   0 2907960 322612  26188 S   1.5   8.0   0:11.05 java
+   8772 root      20   0 2781144 220348  26984 S   0.5   5.5   0:08.70 java
+      1 root      20   0   94400   3064    924 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2080    640 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142912  25992 S   0.0   3.5   0:04.60 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.00 top
+
+top - 09:57:37 up 42 min,  0 users,  load average: 2.19, 2.51, 1.80
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 49.6 us, 17.4 sy,  0.0 ni,  8.3 id, 22.9 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    179.7 free,   2947.6 used,    808.8 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    691.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2676028 188148  25000 S  27.0   4.7   0:03.92 java
+   8169 root      20   0 2747908 221644  25976 S  26.5   5.5   0:08.20 java
+   8023 root      20   0 2759388 294680  26632 S   1.5   7.3   0:09.22 java
+   8596 root      20   0 2907960 322612  26188 S   1.5   8.0   0:11.08 java
+   8772 root      20   0 2781144 229056  26984 S   1.5   5.7   0:08.73 java
+      1 root      20   0   94400   3016    876 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2076    636 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142912  25992 S   0.0   3.5   0:04.60 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.00 top
+
+top - 09:57:39 up 42 min,  0 users,  load average: 2.19, 2.51, 1.80
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.6 us, 16.5 sy,  0.0 ni, 13.0 id, 37.2 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    133.6 free,   3066.4 used,    736.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    575.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2676028 233348  24988 S  20.4   5.8   0:04.33 java
+   8169 root      20   0 2747908 221680  25964 S  16.9   5.5   0:08.54 java
+   8596 root      20   0 2907960 322716  26176 S   2.0   8.0   0:11.12 java
+   8023 root      20   0 2759388 294668  26620 S   0.5   7.3   0:09.23 java
+   8340 root      20   0 2700644 142900  25980 S   0.5   3.5   0:04.61 java
+   8772 root      20   0 2781144 229044  26972 S   0.5   5.7   0:08.74 java
+   9232 root      20   0   48920   3736   3200 R   0.5   0.1   0:00.01 top
+      1 root      20   0   94400   2984    844 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2076    636 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+
+top - 09:57:41 up 42 min,  0 users,  load average: 2.26, 2.52, 1.81
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 41.4 us, 13.3 sy,  0.0 ni,  9.0 id, 34.6 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    133.6 free,   3066.4 used,    736.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    575.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2691680 249156  24976 S  43.5   6.2   0:05.20 java
+   8169 root      20   0 2747908 221800  25952 S  15.0   5.5   0:08.84 java
+   8596 root      20   0 2907960 322804  26164 S   2.0   8.0   0:11.16 java
+   8023 root      20   0 2759388 294656  26608 S   0.5   7.3   0:09.24 java
+   8772 root      20   0 2781144 229028  26956 S   0.5   5.7   0:08.75 java
+      1 root      20   0   94400   2984    844 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2076    636 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142876  25956 S   0.0   3.5   0:04.61 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:43 up 42 min,  0 users,  load average: 2.26, 2.52, 1.81
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 46.2 us, 16.4 sy,  0.0 ni,  1.8 id, 34.1 wa,  0.0 hi,  1.5 si,  0.0 st
+MiB Mem :   3936.1 total,    122.5 free,   3108.3 used,    705.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    533.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2703188 261952  24976 S  40.3   6.5   0:06.01 java
+   8169 root      20   0 2747908 221900  25948 S  25.9   5.5   0:09.36 java
+   8023 root      20   0 2759388 294652  26604 S   0.5   7.3   0:09.25 java
+   8596 root      20   0 2907960 322800  26160 S   0.5   8.0   0:11.17 java
+   8772 root      20   0 2781144 229024  26952 S   0.5   5.7   0:08.76 java
+      1 root      20   0   94400   2984    844 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4500   3508 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2076    636 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    892    336 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142876  25956 S   0.0   3.5   0:04.61 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:45 up 42 min,  0 users,  load average: 2.26, 2.52, 1.81
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 28.5 us, 14.1 sy,  0.0 ni, 13.6 id, 41.2 wa,  0.0 hi,  2.5 si,  0.0 st
+MiB Mem :   3936.1 total,    122.5 free,   3108.3 used,    705.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    533.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   8169 root      20   0 2747908 222036  25948 S  19.0   5.5   0:09.74 java
+   9233 root      20   0 2703188 263108  25004 S  16.0   6.5   0:06.33 java
+   8596 root      20   0 2907960 322800  26160 S   1.5   8.0   0:11.20 java
+   8023 root      20   0 2759388 294652  26604 S   0.5   7.3   0:09.26 java
+   8772 root      20   0 2781144 229024  26952 S   0.5   5.7   0:08.77 java
+      1 root      20   0   94400   2960    820 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4448   3456 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   2076    636 S   0.0   0.1   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    812    256 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142876  25956 S   0.0   3.5   0:04.61 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:48 up 42 min,  0 users,  load average: 2.32, 2.53, 1.82
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.2 us, 14.2 sy,  0.0 ni,  9.3 id, 53.4 wa,  0.0 hi,  1.9 si,  0.0 st
+MiB Mem :   3936.1 total,    120.2 free,   3108.9 used,    707.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    531.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2703188 263868  25004 S  16.5   6.5   0:06.69 java
+   8169 root      20   0 2747908 222104  25948 S  12.8   5.5   0:10.02 java
+   8023 root      20   0 2759388 294652  26604 S   1.4   7.3   0:09.29 java
+   8596 root      20   0 2907960 322800  26160 S   0.9   8.0   0:11.22 java
+   8340 root      20   0 2700644 142876  25956 S   0.5   3.5   0:04.62 java
+   8772 root      20   0 2781144 229024  26952 S   0.5   5.7   0:08.78 java
+      1 root      20   0   94400   2816    676 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4372   3380 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1988    548 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    704    148 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:50 up 42 min,  0 users,  load average: 2.32, 2.53, 1.82
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 29.1 us, 17.8 sy,  0.0 ni,  5.8 id, 46.1 wa,  0.0 hi,  1.3 si,  0.0 st
+MiB Mem :   3936.1 total,    120.2 free,   3108.9 used,    707.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    531.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2703188 318476  25004 S  25.9   7.9   0:07.21 java
+   8169 root      20   0 2747908 222164  25948 S  14.4   5.5   0:10.31 java
+   8596 root      20   0 2907960 322828  26160 S   1.0   8.0   0:11.24 java
+   8340 root      20   0 2700644 142904  25956 S   0.5   3.5   0:04.63 java
+   8772 root      20   0 2781144 229024  26952 S   0.5   5.7   0:08.79 java
+      1 root      20   0   94400   2624    484 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4268   3276 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1880    440 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    580     24 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8023 root      20   0 2759388 294652  26604 S   0.0   7.3   0:09.29 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:52 up 42 min,  0 users,  load average: 2.45, 2.55, 1.83
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 21.8 us, 17.2 sy,  0.0 ni, 14.9 id, 44.8 wa,  0.0 hi,  1.3 si,  0.0 st
+MiB Mem :   3936.1 total,    112.9 free,   3194.0 used,    629.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    446.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2703188 318508  25004 S  16.0   7.9   0:07.53 java
+   8169 root      20   0 2747908 222232  25948 S  13.0   5.5   0:10.57 java
+   8023 root      20   0 2759388 294708  26604 S   1.5   7.3   0:09.32 java
+   8596 root      20   0 2907960 322828  26160 S   1.5   8.0   0:11.27 java
+      1 root      20   0   94400   2488    348 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4204   3212 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1828    388 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142904  25956 S   0.0   3.5   0:04.63 java
+   8772 root      20   0 2781144 229024  26952 S   0.0   5.7   0:08.79 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:54 up 42 min,  0 users,  load average: 2.45, 2.55, 1.83
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.9 us, 14.1 sy,  0.0 ni, 11.1 id, 51.9 wa,  0.0 hi,  2.0 si,  0.0 st
+MiB Mem :   3936.1 total,    112.9 free,   3194.0 used,    629.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    446.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 297080  24804 S  12.5   7.4   0:07.78 java
+   8169 root      20   0 2747908 222032  25748 S   9.5   5.5   0:10.76 java
+   8596 root      20   0 2907960 322628  25960 S   1.0   8.0   0:11.29 java
+   8772 root      20   0 2781144 228824  26752 S   1.0   5.7   0:08.81 java
+   8023 root      20   0 2759388 294508  26404 S   0.5   7.3   0:09.33 java
+      1 root      20   0   94400   2380    240 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4124   3132 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1780    340 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142692  25744 S   0.0   3.5   0:04.63 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.01 top
+
+top - 09:57:56 up 42 min,  0 users,  load average: 2.45, 2.55, 1.83
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.0 us, 13.6 sy,  0.0 ni, 15.4 id, 50.9 wa,  0.0 hi,  2.1 si,  0.0 st
+MiB Mem :   3936.1 total,    101.5 free,   3190.7 used,    644.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    449.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 302504  24804 S  13.4   7.5   0:08.05 java
+   8169 root      20   0 2747908 222104  25748 S  12.9   5.5   0:11.02 java
+   8596 root      20   0 2907960 322628  25960 S   1.5   8.0   0:11.32 java
+   8023 root      20   0 2759388 294508  26404 S   0.5   7.3   0:09.34 java
+   8772 root      20   0 2781144 228960  26752 S   0.5   5.7   0:08.82 java
+   9232 root      20   0   48920   3736   3200 R   0.5   0.1   0:00.02 top
+      1 root      20   0   94400   2292    152 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4060   3068 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1756    316 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142692  25744 S   0.0   3.5   0:04.63 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+
+top - 09:57:58 up 42 min,  0 users,  load average: 2.58, 2.58, 1.84
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.0 us, 12.9 sy,  0.0 ni, 24.6 id, 40.6 wa,  0.0 hi,  2.9 si,  0.0 st
+MiB Mem :   3936.1 total,    101.5 free,   3190.7 used,    644.0 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    449.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 302524  24804 S  14.9   7.5   0:08.36 java
+   8169 root      20   0 2747908 222164  25748 S  12.5   5.5   0:11.28 java
+   8023 root      20   0 2759388 294508  26404 S   1.0   7.3   0:09.36 java
+   8596 root      20   0 2907960 322628  25960 S   1.0   8.0   0:11.34 java
+   8772 root      20   0 2781144 228968  26752 S   1.0   5.7   0:08.84 java
+      1 root      20   0   94400   2252    112 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   4020   3028 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1736    296 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142692  25744 S   0.0   3.5   0:04.63 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.02 top
+
+top - 09:58:00 up 42 min,  0 users,  load average: 2.58, 2.58, 1.84
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.3 us, 16.8 sy,  0.0 ni, 17.6 id, 47.4 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    115.9 free,   3180.5 used,    639.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    459.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 302524  24804 S  12.5   7.5   0:08.61 java
+   8169 root      20   0 2747908 222164  25748 S   9.5   5.5   0:11.47 java
+   8596 root      20   0 2907960 322628  25960 S   1.0   8.0   0:11.36 java
+   8023 root      20   0 2759388 294508  26404 S   0.5   7.3   0:09.37 java
+   8340 root      20   0 2700644 142704  25748 S   0.5   3.5   0:04.64 java
+   8772 root      20   0 2781144 228968  26752 S   0.5   5.7   0:08.85 java
+      1 root      20   0   94400   2228     88 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3992   3000 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1712    272 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.02 top
+
+top - 09:58:02 up 42 min,  0 users,  load average: 2.53, 2.57, 1.84
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22.3 us, 15.7 sy,  0.0 ni,  6.3 id, 53.8 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    115.9 free,   3180.5 used,    639.7 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    459.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 302524  24804 S  13.4   7.5   0:08.88 java
+   8169 root      20   0 2747908 222364  25748 S  10.4   5.5   0:11.68 java
+   8023 root      20   0 2759388 294644  26404 S   1.0   7.3   0:09.39 java
+   8596 root      20   0 2907960 322628  25960 S   1.0   8.0   0:11.38 java
+   8772 root      20   0 2781144 228968  26752 S   0.5   5.7   0:08.86 java
+      1 root      20   0   94400   2208     68 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3984   2992 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1704    264 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2028   1084 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2644   2016 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2240   1648 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142704  25748 S   0.0   3.5   0:04.64 java
+   9231 root      20   0   11884   2724   2496 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3736   3200 R   0.0   0.1   0:00.02 top
+
+top - 09:58:04 up 42 min,  0 users,  load average: 2.53, 2.57, 1.84
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.2 us, 15.7 sy,  0.0 ni, 12.6 id, 53.5 wa,  0.0 hi,  1.0 si,  0.0 st
+MiB Mem :   3936.1 total,    105.6 free,   3219.4 used,    611.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    420.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 338612  24800 S  13.5   8.4   0:09.15 java
+   8169 root      20   0 2747908 224972  25744 S   9.0   5.6   0:11.86 java
+   8023 root      20   0 2759388 294712  26400 S   1.0   7.3   0:09.41 java
+   8596 root      20   0 2907960 322624  25956 S   1.0   8.0   0:11.40 java
+   8772 root      20   0 2781144 229084  26752 S   1.0   5.7   0:08.88 java
+      1 root      20   0   94400   2152     12 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3960   2968 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1684    244 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2024   1080 S   0.0   0.1   0:00.03 sshd
+     71 root      20   0   12148   2640   2012 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2236   1644 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 142700  25744 S   0.0   3.5   0:04.64 java
+   9231 root      20   0   11884   2720   2492 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3732   3196 R   0.0   0.1   0:00.02 top
+
+top - 09:58:06 up 42 min,  0 users,  load average: 2.57, 2.57, 1.85
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18.6 us, 17.0 sy,  0.0 ni, 17.3 id, 45.1 wa,  0.0 hi,  2.1 si,  0.0 st
+MiB Mem :   3936.1 total,    105.6 free,   3219.4 used,    611.2 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    420.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 338112  24300 S  13.5   8.4   0:09.42 java
+   8169 root      20   0 2747908 225724  25244 S  11.0   5.6   0:12.08 java
+   8596 root      20   0 2907960 322124  25456 S   1.5   8.0   0:11.43 java
+   8023 root      20   0 2759388 294212  25900 S   0.5   7.3   0:09.42 java
+   8340 root      20   0 2700644 142196  25240 S   0.5   3.5   0:04.65 java
+   8772 root      20   0 2781144 228584  26252 S   0.5   5.7   0:08.89 java
+      1 root      20   0   94400   2140      0 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3896   2904 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1652    212 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   2004   1060 S   0.0   0.0   0:00.03 sshd
+     71 root      20   0   12148   2620   1992 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2216   1624 S   0.0   0.1   0:00.07 bash
+   9231 root      20   0   11884   2700   2472 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3712   3176 R   0.0   0.1   0:00.02 top
+
+top - 09:58:08 up 42 min,  0 users,  load average: 2.57, 2.57, 1.85
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20.2 us, 16.1 sy,  0.0 ni, 14.1 id, 46.9 wa,  0.0 hi,  2.8 si,  0.0 st
+MiB Mem :   3936.1 total,    103.8 free,   3220.1 used,    612.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    419.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 335876  21880 S  12.9   8.3   0:09.68 java
+   8169 root      20   0 2747908 223532  22824 S   9.5   5.5   0:12.27 java
+   8023 root      20   0 2759388 291872  23480 S   1.5   7.2   0:09.45 java
+   8596 root      20   0 2907960 319704  23036 S   1.5   7.9   0:11.46 java
+   8772 root      20   0 2781144 226164  23832 S   0.5   5.6   0:08.90 java
+      1 root      20   0   94400   2140      0 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3844   2852 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1616    176 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   1992   1048 S   0.0   0.0   0:00.03 sshd
+     71 root      20   0   12148   2608   1980 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2204   1612 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 139776  22820 S   0.0   3.5   0:04.65 java
+   9231 root      20   0   11884   2688   2460 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3700   3164 R   0.0   0.1   0:00.02 top
+
+top - 09:58:10 up 42 min,  0 users,  load average: 2.57, 2.57, 1.85
+Tasks:  15 total,   1 running,  14 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19.2 us, 14.1 sy,  0.0 ni, 11.0 id, 53.8 wa,  0.0 hi,  1.8 si,  0.0 st
+MiB Mem :   3936.1 total,    103.8 free,   3220.1 used,    612.3 buff/cache
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    419.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   9233 root      20   0 2681756 335140  21144 S  12.0   8.3   0:09.92 java
+   8169 root      20   0 2747908 222796  22088 S   9.0   5.5   0:12.45 java
+   8023 root      20   0 2759388 291136  22744 S   1.0   7.2   0:09.47 java
+   8596 root      20   0 2907960 318968  22300 S   1.0   7.9   0:11.48 java
+   8772 root      20   0 2781144 225428  23096 S   0.5   5.6   0:08.91 java
+      1 root      20   0   94400   2140      0 S   0.0   0.1   0:00.16 systemd
+     26 root      20   0   93912   3800   2808 S   0.0   0.1   0:00.39 systemd-journal
+     28 root      20   0   88500   1576    136 S   0.0   0.0   0:00.58 systemd-udevd
+     43 dbus      20   0   53976    556      0 S   0.0   0.0   0:00.11 dbus-daemon
+     44 root      20   0   78528   1988   1044 S   0.0   0.0   0:00.03 sshd
+     71 root      20   0   12148   2604   1976 S   0.0   0.1   0:00.16 bash
+   2635 root      20   0   12148   2200   1608 S   0.0   0.1   0:00.07 bash
+   8340 root      20   0 2700644 139040  22084 S   0.0   3.4   0:04.65 java
+   9231 root      20   0   11884   2684   2456 S   0.0   0.1   0:00.00 top_record.sh
+   9232 root      20   0   48920   3696   3160 R   0.0   0.1   0:00.02 top

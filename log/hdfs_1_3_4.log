@@ -1,0 +1,7 @@
+
+
+
+
+
+
+ls: Call From cluster-master/10.0.0.2 to cluster-master:9000 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
